@@ -14,7 +14,7 @@ If Windows warns you about running the file, **ignore it** <3. Then follow the i
 
 [image]
 
-After the software has installed, you can launch it! If you don't know how to launch it, go to [this page](google.com) on how to launch files with no shortcut.
+After the software has installed, you can launch it! If you don't know how to launch it, go to [this page](https://potatzz.github.io/ms-robotics-resources.github.io/opening_software_with_windows_key.html) on how to launch files with no shortcut.
 Specifically, you should launch the NavX Config. When the software launches, plug in the NavX into one of the USB-A ports.
 Keep selecting the different COM ports in the Config until you get outputted values in the different types of measurements.
 
