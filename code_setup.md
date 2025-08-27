@@ -17,7 +17,7 @@ Depending on your device, follow the instructions to install Andriod Studio.
 After installing Andriod Studio, you need to get the code framework we use called: [Road-Runner](https://github.com/acmerobotics/road-runner-quickstart/tree/master) by ACME Robotics. 
 To download it, go to [https://github.com/acmerobotics/road-runner-quickstart/tree/master](https://github.com/acmerobotics/road-runner-quickstart/tree/master) and download the files. 
 
-![Road Runner GitHub Download](road-runner-download.png)
+![Road Runner GitHub Download](images/road-runner-download.png)
 
 Once you've downloaded the .zip file, go into your file manager and unzip the file. Now, open up Andriod Studio. If you haven't downloaded Andriod Studio yet, install it now!
 When Andriod Studio Launches, press open and find the road-runner folder. If you need too, expand the road-runnner folder then click on the file with the green icon next to it.
