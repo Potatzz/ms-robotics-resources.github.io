@@ -12,7 +12,7 @@ First go to [https://pdocs.kauailabs.com/navx-micro/software/navx-ui/](https://p
 It should start to download a .zip file. Wait for it to finish downloading and open it. Unzip the .zip file, and then run the setup.exe file.  
 If Windows warns you about running the file, **ignore it** <3. Then follow the instructions on screen to install the software.  
 
-![NavX install application](navx-install.png)
+![NavX install application](images/navx-install.png)
 
 After the software has installed, you can launch it! If you don't know how to launch it, go to [this page](https://potatzz.github.io/ms-robotics-resources.github.io/opening_software_with_windows_key.html) on how to launch files with no shortcut.
 Specifically, you should launch the NavX Config. When the software launches, plug in the NavX into one of the USB-A ports.  
