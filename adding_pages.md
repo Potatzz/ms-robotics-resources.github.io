@@ -16,6 +16,8 @@ Using two * on two sides of a word or phrase will put something in bold!
 **thicc**  
 (you can also stack italics and bold ***like this!***)  
   
+**For adding newlines, or keeping lines as newlines, put two spaces at the end of a line (or in an empty line to make a break in text)**  
+  
 For other text things you can use [this site](https://www.markdownguide.org/cheat-sheet/) :)  
   
 
