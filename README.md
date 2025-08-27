@@ -1,6 +1,5 @@
-# [Table of Contents](https://potatzz.github.io/ms-robotics-resources.github.io/table_of_contents.html)
-
 # Middle School Robotics Team 23586 Resources
+## [Table of Contents](https://potatzz.github.io/ms-robotics-resources.github.io/table_of_contents.html)
 
 Welcome to the MS Robotics Resources page! Here you can find various applications, links, and any other helpful information.
 
