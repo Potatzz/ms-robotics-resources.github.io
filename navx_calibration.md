@@ -10,13 +10,13 @@ To calibrate the NavX you're going to need to download the NavX UI.
 First go to [https://pdocs.kauailabs.com/navx-micro/software/navx-ui/](https://pdocs.kauailabs.com/navx-micro/software/navx-ui/), and click the large purple download button on the right.  
   
 It should start to download a .zip file. Wait for it to finish downloading and open it. Unzip the .zip file, and then run the setup.exe file.  
-If Windows warns you about running the file, **ignore it** <3. Then follow the instructions on screen to install the software.  
+If Windows warns you about running the file, **ignore it** <3. Then follow the instructions on screen to install the software. Allow the software to install the Driver as well!  
 
 ![NavX install application](images/navx-install.png)
 
 After the software has installed, you can launch it! If you don't know how to launch it, go to [this page](https://potatzz.github.io/ms-robotics-resources.github.io/opening_software_with_windows_key.html) on how to launch files with no shortcut.
-Specifically, you should launch the NavX Config. When the software launches, plug in the NavX into one of the USB-A ports.  
-Keep selecting the different COM ports in the Config until you get outputted values in the different types of measurements.  
+Specifically, you should launch the NavX Config **as an administrator**. When the software launches, plug in the NavX into one of the USB-A ports.  
+The software should automatically detect that something is plugged into the USB port, press open and you should see a bunch of numbers apear. 
 
 [image]
 
