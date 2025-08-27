@@ -100,3 +100,6 @@ Every statement ends with ;
 main is required for execution
 
 Types of variables must be declared
+
+
+[Home Page](https://potatzz.github.io/ms-robotics-resources.github.io/) || [Table of Contents](https://potatzz.github.io/ms-robotics-resources.github.io/table_of_contents.html)
