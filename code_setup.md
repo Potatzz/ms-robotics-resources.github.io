@@ -17,4 +17,4 @@ When Andriod Studio Launches, press open and find the road-runner folder. If you
 image
 
 Wait for Andriod Studio to launch the file, once it's finished you can find all the files in TeamCode>java>org>firstinspires>ftc>teamcode
--# (Notes: It may also look like TeamCode>java>org,firstinspires.ftc.teamcode, each period is just indicating another folder)
+<small>(Notes: It may also look like TeamCode>java>org,firstinspires.ftc.teamcode, each period is just indicating another folder)</small>
