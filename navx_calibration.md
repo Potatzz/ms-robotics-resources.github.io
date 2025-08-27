@@ -23,3 +23,5 @@ Keep selecting the different COM ports in the Config until you get outputted val
 (untested)
 To calibrate the NavX, go to Advanced>Start Calibration(?). Slowly and steadily, rotate the NavX so that both sides of the NavX face the floor. Once the software detects the correct movements, it will be finished. 
 If you would like, you can run the calibration multiple times for better accuracy.
+
+[Home Page](https://potatzz.github.io/ms-robotics-resources.github.io/) || [Table of Contents](https://potatzz.github.io/ms-robotics-resources.github.io/table_of_contents.html)
