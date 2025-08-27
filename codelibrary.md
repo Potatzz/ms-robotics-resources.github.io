@@ -5,19 +5,19 @@ This page contains useful code as well as basic java grammar for programming you
 
 Any code you write in java always lives inside a class. The file name must match the class name. 
 
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, world!");
-    }
-}
+public class HelloWorld {  
+    public static void main(String[] args) {  
+        System.out.println("Hello, world!");  
+    }  
+}  
 
 # Classes
 
 A class is the basic unit of Java. You define one with the class keyword. The name should start with a capital letter, and the file name must match.
 
-public class MyProgram {
-    // code goes here
-}
+public class MyProgram {  
+    // code goes here  
+}  
 
 # The Main Method
 
