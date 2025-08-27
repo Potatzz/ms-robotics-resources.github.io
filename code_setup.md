@@ -4,17 +4,19 @@ This page will show you how to install and setup Andriod Studio as well as road 
 
 # Installing Andriod Studio
 To start, you're going to need to install Andriod Studio. Go to https://developer.android.com/studio and click the download button.
+![Andriod Studio download button](andriod-studio-download-button.png)
+
 Accept the terms and agreements at the bottom and download the install file. Once the file is downloaded, click it to open it.
 Depending on your device, follow the instructions to install Andriod Studio.
 
 # Downloading and Opening Road-Runner
 After installing Andriod Studio, you need to get the code framework we use called: [Road-Runner](https://github.com/acmerobotics/road-runner-quickstart/tree/master) by ACME Robotics. 
 To download it, go to https://github.com/acmerobotics/road-runner-quickstart/tree/master and download the files. 
-(image)
+![Road Runner GitHub Download](road-runner-download.png)
 
 Once you've downloaded the .zip file, go into your file manager and unzip the file. Now, open up Andriod Studio. If you haven't downloaded Andriod Studio yet, install it now!
 When Andriod Studio Launches, press open and find the road-runner folder. If you need too, expand the road-runnner folder then click on the file with the green icon next to it.
-image
+![Road Runner open in Andriod Studio](road-runner-open-andriod-studio.png)
 
 Wait for Andriod Studio to launch the file, once it's finished you can find all the files in TeamCode>java>org>firstinspires>ftc>teamcode
 <small>(Note: It may also look like TeamCode>java>org,firstinspires.ftc.teamcode, each period is just indicating another folder)</small>
