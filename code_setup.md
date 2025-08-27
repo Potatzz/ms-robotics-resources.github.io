@@ -11,6 +11,8 @@ To start, you're going to need to install Andriod Studio. Go to https://develope
 Accept the terms and agreements at the bottom and download the install file. Once the file is downloaded, click it to open it.
 Depending on your device, follow the instructions to install Andriod Studio.
 
+
+
 # Downloading and Opening Road-Runner
 After installing Andriod Studio, you need to get the code framework we use called: [Road-Runner](https://github.com/acmerobotics/road-runner-quickstart/tree/master) by ACME Robotics. 
 To download it, go to https://github.com/acmerobotics/road-runner-quickstart/tree/master and download the files. 
@@ -32,4 +34,4 @@ If you're working on field centric drive, you should take a look at the NavX Cal
 
 
 
-[Home Page](https://potatzz.github.io/ms-robotics-resources.github.io/)      [Table of Contents](https://potatzz.github.io/ms-robotics-resources.github.io/table_of_contents.html)
+[Home Page](https://potatzz.github.io/ms-robotics-resources.github.io/)                  [Table of Contents](https://potatzz.github.io/ms-robotics-resources.github.io/table_of_contents.html)
