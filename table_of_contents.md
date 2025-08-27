@@ -4,7 +4,7 @@
 ### Programming
 [Road Runner Install](https://potatzz.github.io/ms-robotics-resources.github.io/code_setup.html)  
 [Andriod Studio Install](https://potatzz.github.io/ms-robotics-resources.github.io/code_setup.html)  
-[Code Library](https://github.com/Potatzz/ms-robotics-resources.github.io/blob/main/codelibrary.html)  
+[Code Library](https://potatzz.github.io/ms-robotics-resources.github.io/codelibrary.html)  
 
 ### Hardware
 [NavX Calibration](https://potatzz.github.io/ms-robotics-resources.github.io/navx_calibration.html)
