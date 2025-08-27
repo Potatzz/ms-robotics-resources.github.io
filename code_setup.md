@@ -24,7 +24,8 @@ When Andriod Studio Launches, press open and find the road-runner folder. If you
 
 ![Road Runner open in Andriod Studio](images/road-runner-open-andriod-studio.png)
 
-Wait for Andriod Studio to launch the file, once it's finished you can find all the files in TeamCode>java>org>firstinspires>ftc>teamcode
+Wait for Andriod Studio to launch the file, once it's finished you can find all important code files in TeamCode>java>org>firstinspires>ftc>teamcode  
+You should also create new files in the same folder :)  
 <small>(Note: It may also look like TeamCode>java>org,firstinspires.ftc.teamcode, each period is just indicating another folder)</small>
 
 
