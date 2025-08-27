@@ -9,5 +9,5 @@
 ### Hardware
 [NavX Calibration](https://potatzz.github.io/ms-robotics-resources.github.io/navx_calibration.html)
   
-### Shortcuts and Other QOL
+### QOL and Other Tutorials
 [Using the Windows Key](https://potatzz.github.io/ms-robotics-resources.github.io/opening_software_with_windows_key.html)
