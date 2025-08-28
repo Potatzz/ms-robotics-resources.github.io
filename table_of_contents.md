@@ -11,7 +11,8 @@
 [Key CAD Concepts](https://potatzz.github.io/ms-robotics-resources.github.io/key_cad_concepts.html) - Learn the key concepts for 3D modeling!
 
 ### Hardware
-[NavX Calibration](https://potatzz.github.io/ms-robotics-resources.github.io/navx_calibration.html)
-<br \>
+[NavX Calibration](https://potatzz.github.io/ms-robotics-resources.github.io/navx_calibration.html) - How to re-calibrate the NavX
+
+
 ### QOL and Other Tutorials
-[Using the Windows Key](https://potatzz.github.io/ms-robotics-resources.github.io/opening_software_with_windows_key.html)
+[Using the Windows Key](https://potatzz.github.io/ms-robotics-resources.github.io/opening_software_with_windows_key.html) - A very in depth and long explanation on how to use the complicated and powerful Windows key on all Windows OS using devices
