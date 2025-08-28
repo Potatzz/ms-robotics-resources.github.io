@@ -9,3 +9,6 @@ If you don't have an account, you can use your school email to make a free accou
 # Your First Part
 uhh we're still doing this part sorry .-.
 
+
+
+[Home Page](https://potatzz.github.io/ms-robotics-resources.github.io/) || [Table of Contents](https://potatzz.github.io/ms-robotics-resources.github.io/table_of_contents.html)
