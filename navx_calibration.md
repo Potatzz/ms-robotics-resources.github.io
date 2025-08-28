@@ -1,4 +1,7 @@
 # NavX Intro
+
+![Page in progress!](images/PageCaution.png)
+
 The NavX is what we mainly use to have field centric drive. We specifically use the NavX2 Micro and you can see it on the left-hand side of our robot from last year!  
 The NavX is essetially just a gyroscope and a accelorometer combined. Or as [their website](https://pdocs.kauailabs.com/navx-micro/) says, it's "a second-generation **9-axis inertial/magnetic sensor** and **motion processor.**"  
 Last year, we found out the the NavX can get disoriented and sometimes needs to be recalibrated, so if thats what you're trying to do, then you're in the right place!  
