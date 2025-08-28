@@ -1,6 +1,7 @@
 # Opening Software Without a Shortcut
 **This page only applies to people who are using Windows!**
-<br />
+
+
 This page will teach you how to open up software with the Windows key! It's very helpful if you need to open an application that didn't or doesn't have a premade shortcut.
 <br />
 First, press the key that looks like the Windows logo on your keyboard. It should open up a big search box on your screen with some application icons below.\
