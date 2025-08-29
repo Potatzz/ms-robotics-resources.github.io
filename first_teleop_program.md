@@ -1,5 +1,5 @@
 # Making Your First TeleOp Program
-This page will walk you through making your first TeleOp program in Andriod Studio. Make sure you have Road-Runner and Andriod studio installed, if you don't you can go (here) to install them.
+This page will walk you through making your first TeleOp program in Andriod Studio. Make sure you have Road-Runner and Andriod studio installed, if you don't you can go [here](https://potatzz.github.io/ms-robotics-resources.github.io/code_setup.html) to install them.
 
 # Some Terminology and Structure First
 Before we begin, let's go over some basic terminology, I highly suggest you also look at the (code library) as well.
