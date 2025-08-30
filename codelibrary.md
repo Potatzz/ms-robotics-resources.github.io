@@ -103,7 +103,7 @@ Types of variables must be declared
 
 
 # Programming in FTC
-To learn more in depth about FTC programming specifically, you can download [this](https://github.com/Potatzz/ms-robotics-resources.github.io/tree/bbe5959fdd6d67d1f036102f8bf4f4e890d67479/Downloadable%20Resources) pdf from our GitHub: <https://github.com/Potatzz/ms-robotics-resources.github.io/tree/bbe5959fdd6d67d1f036102f8bf4f4e890d67479/Downloadable%20Resources>
+To learn more in depth about programming for FTC specifically, you can download [this pdf](https://github.com/Potatzz/ms-robotics-resources.github.io/tree/bbe5959fdd6d67d1f036102f8bf4f4e890d67479/Downloadable%20Resources) from our GitHub: <https://github.com/Potatzz/ms-robotics-resources.github.io/tree/bbe5959fdd6d67d1f036102f8bf4f4e890d67479/Downloadable%20Resources>
 
 
 You can also check out this tutorial on making your first TeleOp program [here](https://potatzz.github.io/ms-robotics-resources.github.io/first_teleop_program.html)
