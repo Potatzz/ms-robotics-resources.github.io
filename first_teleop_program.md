@@ -17,7 +17,7 @@ There are 3 other methods that are optional, `init_loop()`,`start()` and `stop()
 `init_loop()` runs 50x a second after you press "Init" and before you press start, which gets added as another button on the Driver Station.
 `start()` runs once after you press start, and `stop()` runs once after you press stop.
 \
-Our code will only use the `init()` method to run.
+Our code will only use the `init()` and `loop()` methods for now.
 
 # Start of your Program
 To start your program, first create a new file Java Class in the `teamcode` folder. Name it **"MyFirstTeleOpProgram"**. Everything should start properly setup and your file should look something like this:\
@@ -32,3 +32,33 @@ This program will be moving one motor. To start, create a new variable with the 
 
 
 # Using `init()`
+Next, we are going to add one of our required methods, `init()`! Go down a line (by pressing "enter") and type `public void init() {`, then press enter. Andriod studio should auto complete the `{` and add another bracket, thats fine. Inside these brackets, we're going to allow the Driver Station to locate a specific motor from the control hub!\
+Add the line: `motor = hardwareMap.get(DcMotorEx.class,"motor");`. This line sets the `motor` variable we established earlier to a specific motor name and type. Although, the only part we really care about is the `"motor"` section at the end. In the Driver Station, you configure a motor port to have a name, the name should be what in these quotations! It allows the Driver Station to know which motor to tell to move when the code asks.\
+\
+This line should give you another error, this time on the `hardwareMap.get`. It will also ask you to import something which you should do! If it doesn't ask, hover over with your mouse and import it that way.\
+At this point your code should look something like this:
+```java
+package org.firstinspires.ftc.teamcode.IntoTheDeep.TeleOp;
+
+import static org.firstinspires.ftc.robotcore.external.BlocksOpModeCompanion.hardwareMap;
+
+import com.qualcomm.robotcore.hardware.DcMotorEx;
+
+public class tutorial {
+    DcMotorEx motor;
+
+    public void init() {
+        motor = hardwareMap.get(DcMotorEx.class, "motor");
+    }
+
+}
+
+```
+
+
+# Movement!
+Finally, let's get the motor to move! Make a new 
+
+
+
+
