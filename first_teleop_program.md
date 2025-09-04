@@ -98,5 +98,7 @@ Now that your code works, try a few challenges!
 - Make the motor spin backwards
 - Make the motor speed based on how far forward the joystick is pushed.
 - Add a second motor!!
-
-
+\
+\
+\
+[Home Page](https://potatzz.github.io/ms-robotics-resources.github.io/) || [Table of Contents](https://potatzz.github.io/ms-robotics-resources.github.io/table_of_contents.html)
