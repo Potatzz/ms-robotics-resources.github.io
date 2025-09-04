@@ -89,8 +89,10 @@ public class tutorial {
 
 }
 ```
-blah blah something about drivers station or smth
-
+# Uploading and Running your Code
+wip\
+\
+\
 Now that your code works, try a few challenges!
 # Challenges:
 - Make the motor spin backwards
