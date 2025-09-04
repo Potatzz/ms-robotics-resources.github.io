@@ -16,3 +16,16 @@ The second required method is `loop()`, which runs 50x a second.
 There are 3 other methods that are optional, `init_loop()`,`start()` and `stop()`.
 `init_loop()` runs 50x a second after you press "Init" and before you press start, which gets added as another button on the Driver Station.
 `start()` runs once after you press start, and `stop()` runs once after you press stop.
+\
+Our code will only use the `init()` method to run.
+
+# Start of your Program
+To start your program, first create a new file Java Class in the `teamcode` folder. Name it **"MyFirstTeleOpProgram"**. Everything should start properly setup and your file should look something like this:\
+```java
+package org.firstinspires.ftc.teamcode.IntoTheDeep.TeleOp;
+
+public class MyFirstTeleOpProgram {
+  
+}
+```\
+
