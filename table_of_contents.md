@@ -5,7 +5,7 @@
 [Road Runner Install](https://potatzz.github.io/ms-robotics-resources.github.io/code_setup.html) - A guide on how to install Road-Runner, the library we use to start all of our code!\
 [Andriod Studio Install](https://potatzz.github.io/ms-robotics-resources.github.io/code_setup.html) - A guide on how to install Andriod Studio, the main IDE we use for programming!\
 [Code Library](https://potatzz.github.io/ms-robotics-resources.github.io/codelibrary.html) - A collection of beginner information on Java\
-[Simple FTC Programming Tutorial]() - Guides you through making a simple program to move a motor via the joystick!
+[Simple FTC Programming Tutorial](https://potatzz.github.io/ms-robotics-resources.github.io/first_teleop_program.html) - Guides you through making a simple program to move a motor via the joystick!
 FTC Programming Guide - *Will explain different libraries you can use and how to setup code as well as some tips and troubleshooting during programming*
 
 ### CAD and 3D Printing
