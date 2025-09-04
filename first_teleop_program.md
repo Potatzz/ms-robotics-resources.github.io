@@ -44,7 +44,7 @@ import static org.firstinspires.ftc.robotcore.external.BlocksOpModeCompanion.har
 
 import com.qualcomm.robotcore.hardware.DcMotorEx;
 
-public class tutorial {
+public class MyFirstTeleOpProgram {
     DcMotorEx motor;
 
     public void init() {
@@ -57,8 +57,38 @@ public class tutorial {
 
 
 # Movement!
-Finally, let's get the motor to move! Make a new 
+Finally, let's get the motor to move! Now we will use the `loop()` method! Click outside of the } bracket that belonds to the `init()` method (it's the curly bracket right below the last line we added). Here add `public void loop() {` and press enter.\
+Inside the `loop()` method, we're going to create an **If/Else** statement that will read the gamepad joysticks to move the motor! First write `if (gamepad1.left_stick_y > 0) {` and press enter. This line is checking to see if the y value of the left joystick on the gamepad is greater than 0, in other words, are you moving the joystick up? Again, you should get an error on the `gamepad1`, import the class it asks you too :)\
+Now we will add code to actually move the motor! Inside the if statement, add the line `motor.setPower(1.0);`. This line is setting the power of the `motor` variable to 1. But `motor` variable has been set to equal an actual real motor! **Keep in mind, the .setPower() attribute requires a *double* to work, so make sure you provide a double and not an integer**\
+\
+Now we have an issue though, if you ran this code and moved the joystick, the motor would never stop! This could be dangerous, especially if its on a big robot with way more than just 1 motor! On the same line as the ending } bracket of the if statement, add `else {` and press enter. This section will run if the above if statement isn't met (as in, if the gamepad joy stick is less than or equal to 0 since that wouldn't run the code inside the if statement). Inside the else section, add `motor.setPower(0.0);` (**Notice how even zero's have to have a ".0" in doubles!**). This line sets the motor power to 0 if the joystick isn't pushed forward.\
+This should be your final code:
+```java
+package org.firstinspires.ftc.teamcode.IntoTheDeep.TeleOp;
 
+
+import static org.firstinspires.ftc.robotcore.external.BlocksOpModeCompanion.gamepad1;
+import static org.firstinspires.ftc.robotcore.external.BlocksOpModeCompanion.hardwareMap;
+
+import com.qualcomm.robotcore.hardware.DcMotorEx;
+
+public class tutorial {
+    DcMotorEx motor;
+
+    public void init() {
+        motor = hardwareMap.get(DcMotorEx.class, "motor");
+    }
+
+    public void loop() {
+        if (gamepad1.left_stick_y > 0) {
+            motor.setPower(1);
+        } else {
+            motor.setPower(0.0);
+        }
+    }
+
+}
+```
 
 
 
