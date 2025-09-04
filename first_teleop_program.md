@@ -27,5 +27,8 @@ package org.firstinspires.ftc.teamcode.IntoTheDeep.TeleOp;
 public class MyFirstTeleOpProgram {
   
 }
-```\
+```
+This program will be moving one motor. To start, create a new variable with the type `DcMotorEx`, name it `motor`. You should get an error and `DcMotorEx` should be highlighted red. It might also suggest that you import a class. This is normal. If it suggests to import a class, import it!. A new line of code should apear at the top of the file that says `import com.qualcomm.robotcore.hardware.DcMotorEx;`, thats importing a new type of variable called DcMotorEx, which is good! If you didn't get the suggestion to import a new class, just copy and paste `import com.qualcomm.robotcore.hardware.DcMotorEx;` into the code, you can also hover over the red highlighted text to see what the problem is. 
 
+
+# Using `init()`
