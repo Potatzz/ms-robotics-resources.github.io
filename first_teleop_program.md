@@ -81,7 +81,7 @@ public class tutorial {
 
     public void loop() {
         if (gamepad1.left_stick_y > 0) {
-            motor.setPower(1);
+            motor.setPower(1.0);
         } else {
             motor.setPower(0.0);
         }
@@ -89,6 +89,12 @@ public class tutorial {
 
 }
 ```
+blah blah something about drivers station or smth
 
+Now that your code works, try a few challenges!
+# Challenges:
+- Make the motor spin backwards
+- Make the motor speed based on how far forward the joystick is pushed.
+- Add a second motor!!
 
 
